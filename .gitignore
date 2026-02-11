@@ -1,0 +1,36 @@
+## Java
+/*.class
+**/target/
+**/out/
+.classpath
+.project
+.settings/
+/.idea/
+*.iml
+*.log
+hs_err_pid*
+.vscode/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Build
+build/
+bin/
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+target/
+
+# Gradle
+/.gradle
+/build
